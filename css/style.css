@@ -1,9 +1,12 @@
-.blue {
-    color: blue;
-}
+
 
 .carousel-indicators li {
 
     width: 60px;
     height: 5px;
+}
+
+body {
+    background-color: lightgray;
+
 }
