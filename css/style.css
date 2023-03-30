@@ -10,3 +10,8 @@ body {
     background-color: lightgray;
 
 }
+
+
+  li a:hover:not(.active) {
+    background-color: rgb(99, 94, 94), 0.979);
+     }
